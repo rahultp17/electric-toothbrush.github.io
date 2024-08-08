@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "SmartClean 5000X",
+        "price": 29.99,
+        "description": "High efficiency electric toothbrush with 3 modes.",
+        "image": "./images/toothbrush_1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Smart Pro1000 Rechargeable",
+        "price": 39.99,
+        "description": "Premium electric toothbrush with 5 modes and Bluetooth.",
+        "image": "./images/toothbrush_2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Floral-bee Io Series 9",
+        "price": 49.99,
+        "description": "Deluxe electric toothbrush with 7 modes and advanced features.",
+        "image": "./images/toothbrush_3.jpg"
+    }
+]
